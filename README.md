@@ -1,4 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
+Estudiante 1: Ernesto José Duarte Mantilla e.duartem@uniandes.edu.co 202014279
+
+Estudiante 2: Ana Sofía Padilla Daza a.padillad@uniandes.edu.co 202021748
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
